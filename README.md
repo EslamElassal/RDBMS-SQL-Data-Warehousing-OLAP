@@ -30,38 +30,39 @@ Quantity.
 ## Solutions:
 ### In Part A: RDBMS & SQL:
 1.\
-![alt text](Images_Solutiuon(FADS)\QP1_1.jpg)\
+
+![alt text](Images_Solutiuon(FADS)/QP1_1.jpg)/
 2.\
-![alt text](Images_Solutiuon(FADS)\QP1_2.jpg)\
+![alt text](Images_Solutiuon(FADS)/QP1_2.jpg)\
 3.\
-![alt text](Images_Solutiuon(FADS)\QP1_3.jpg)\
+![alt text](Images_Solutiuon(FADS)/QP1_3.jpg)\
 4.\
-![alt text](Images_Solutiuon(FADS)\QP1_4.jpg)\
+![alt text](Images_Solutiuon(FADS)/QP1_4.jpg)\
 5.\
-![alt text](Images_Solutiuon(FADS)\QP1_5.jpg)\
+![alt text](Images_Solutiuon(FADS)/QP1_5.jpg)\
 6.\
-![alt text](Images_Solutiuon(FADS)\QP1_6.jpg)\
+![alt text](Images_Solutiuon(FADS)/QP1_6.jpg)\
 7.\
-![alt text](Images_Solutiuon(FADS)\QP1_7.jpg)\
+![alt text](Images_Solutiuon(FADS)/QP1_7.jpg)\
 8.\
-![alt text](Images_Solutiuon(FADS)\QP1_8.jpg)
+![alt text](Images_Solutiuon(FADS)/QP1_8.jpg)
 ### In Part B: Data Warehousing & OLAP
 
 1.\
-![alt text](Images_Solutiuon(FADS)\QP2_1.jpg)\
+![alt text](Images_Solutiuon(FADS)/QP2_1.jpg)\
 2.\
 A)\
-![alt text](Images_Solutiuon(FADS)\QP2_2.jpg)\
+![alt text](Images_Solutiuon(FADS)/QP2_2.jpg)\
 B)\
-![alt text](Images_Solutiuon(FADS)\QP2_3.jpg)\
+![alt text](Images_Solutiuon(FADS)/QP2_3.jpg)\
 C)\
-![alt text](Images_Solutiuon(FADS)\QP2_4.jpg)\
+![alt text](Images_Solutiuon(FADS)/QP2_4.jpg)\
 3.\
 A)\
-![alt text](Images_Solutiuon(FADS)\QP2_5.jpg)\
+![alt text](Images_Solutiuon(FADS)/QP2_5.jpg)\
 B)\
-![alt text](Images_Solutiuon(FADS)\QP2_6.jpg)\
+![alt text](Images_Solutiuon(FADS)/QP2_6.jpg)\
 4.\
-![alt text](Images_Solutiuon(FADS)\QP2_7.jpg)\
-![alt text](Images_Solutiuon(FADS)\QP2_8_1.jpg)\
-![alt text](Images_Solutiuon(FADS)\QP2_8_2.jpg)
+![alt text](Images_Solutiuon(FADS)/QP2_7.jpg)\
+![alt text](Images_Solutiuon(FADS)/QP2_8_1.jpg)\
+![alt text](Images_Solutiuon(FADS)/QP2_8_2.jpg)
